@@ -90,7 +90,7 @@ for multiplier in create_multipliers():
 #https://www.getit01.com/p20180120329483144/
 #https://www.zhihu.com/question/29483144
 #https://itw01.com/VVIQ6E9.html
-
+#http://www.pythonabc.com/python-late-binding-side-effect/
 '''
 This happens due to Python’s late binding behavior which says that the values of variables used in closures are looked up at the time the inner function is called. 
 '''
